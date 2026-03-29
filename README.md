@@ -80,6 +80,28 @@
 
 ---
 
+## 📝 Problem Statement
+Ride-hailing platforms like Ola generate massive amounts of booking and trip data daily. However, challenges such as **high cancellation rates**, **varying success rates across vehicle types**, and **inefficient resource allocation** make it difficult to optimize operations and improve customer satisfaction. This project aims to build an **end-to-end analytics pipeline** using SQL, Python, Streamlit, and Power BI to clean, analyze, and visualize Ola ride data—providing actionable insights for both business and operational teams.
+
+---
+
+## 🌍 Impact
+- **Operational Insights**: Dashboards highlight cancellation reasons (driver vs. customer), enabling Ola to address pain points such as driver reliability and customer behavior.  
+- **Revenue Optimization**: Vehicle-type analysis shows booking value and travel distance trends, helping Ola identify which categories (Prime Sedan, Auto, Bike, etc.) drive the most value.  
+- **Customer Experience**: By analyzing cancellation causes (e.g., driver not moving, AC not working, wrong address), Ola can implement targeted improvements to reduce friction.  
+- **Scalability**: The reproducible workflow demonstrates how raw booking data can be transformed into interactive dashboards for decision-making across multiple platforms.  
+
+---
+
+## 🚀 Future Recommendations
+1. **Predictive Modeling**: Use machine learning to forecast cancellations based on time, location, and vehicle type.  
+2. **Driver Performance KPIs**: Add metrics such as punctuality, ride completion rate, and customer ratings to evaluate driver reliability.  
+3. **Dynamic Pricing Optimization**: Integrate booking and cancellation trends with surge pricing models to balance demand and supply.  
+4. **Customer Segmentation**: Analyze cancellation behavior by age group, booking type (emergency, routine, follow-up), and payment method to tailor solutions.  
+5. **Real-Time Monitoring**: Connect dashboards to live booking data for instant visibility into cancellations and revenue fluctuations.  
+6. **Benchmarking**: Compare Ola’s performance against competitors or regional averages to identify competitive advantages.  
+
+---
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
